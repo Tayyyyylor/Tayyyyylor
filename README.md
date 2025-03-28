@@ -11,8 +11,15 @@
 
 ### **📱 Let's connect**
 
-[<img src="https://cdn.simpleicons.org/x/ffffff" width="30" alt="X logo" />](https://twitter.com/ton_pseudo)
-[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn logo" />](https://linkedin.com/in/ton_profil)
+<p align="left">
+  <a href="https://twitter.com/ton_pseudo" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="30" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ton_profil" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" />
+  </a>
+</p>
 
 ### **🧑‍💻 Languages I use**
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
