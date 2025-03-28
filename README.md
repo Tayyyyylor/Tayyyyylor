@@ -11,8 +11,8 @@
 
 ### **📱 Let's connect**
 
-[![X](https://img.shields.io/badge/@yourtwitterhandle-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/Bryan%20Houblon-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![X](https://img.shields.io/badge/1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
 
 ### **🧑‍💻 Languages I use**
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
