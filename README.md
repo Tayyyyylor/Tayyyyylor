@@ -49,7 +49,7 @@
 
 
 ### **🛠️ Tools I use**
-Nginx / docker / figma / git 
+
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest)
 ![strapi](https://img.shields.io/badge/-Strapi-000000?style=flat&logo=strapi)
 ![contentful](https://img.shields.io/badge/-Contentful-000000?style=flat&logo=contentful)
@@ -57,5 +57,12 @@ Nginx / docker / figma / git
 ![docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayyyyylor&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyyyylor&layout=compact&theme=radical" />
+</p>
 
 
