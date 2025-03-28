@@ -28,7 +28,7 @@
 
 ### **🧩 Frameworks & Libraries I use**
 React / next / react Native / expo / django / nest / node / tailwindcss / strapi 
-![React](https://img.shields.io/badge/-react-000000?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
 
 ### **🗄️ Databases & Cloud I use**
