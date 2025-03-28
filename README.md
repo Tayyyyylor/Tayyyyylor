@@ -18,6 +18,7 @@
   <img align="left" alt="Bryan Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 
+<br clear="left" />
 
 ### **🧑‍💻 Languages I use**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
@@ -27,9 +28,7 @@
 
 ### **🧩 Frameworks & Libraries I use**
 React / next / react Native / expo / django / nest / node / tailwindcss / strapi 
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+![react](https://img.shields.io/badge/-react-000000?style=flat&logo=react)
 
 
 ### **🗄️ Databases & Cloud I use**
