@@ -12,7 +12,6 @@
 ### **📱 Let's connect**
 
 [<img src="https://cdn.simpleicons.org/x/ffffff" width="30" alt="X logo" />](https://twitter.com/ton_pseudo)
-
 [<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn logo" />](https://linkedin.com/in/ton_profil)
 
 ### **🧑‍💻 Languages I use**
