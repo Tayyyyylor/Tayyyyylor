@@ -22,7 +22,7 @@
 ### **🧑‍💻 Languages I use**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 
 
 ### **🧩 Frameworks & Libraries I use**
