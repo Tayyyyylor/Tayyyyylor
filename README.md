@@ -14,7 +14,7 @@
 <a href="https://x.com/Taylor">
   <img align="left" alt="Taylor Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bryan-houblon/](https://www.linkedin.com/in/bryan-houblon-172121211/)">
+<a href="https://www.linkedin.com/in/bryan-houblon-172121211">
   <img align="left" alt="Bryan Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 
