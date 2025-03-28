@@ -11,17 +11,17 @@
 
 ### **📱 Let's connect**
 
-<a href="https://x.com/Mehdi_Hattou">
-  <img align="left" alt="Mehdi Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+<a href="https://x.com/Taylor">
+  <img align="left" alt="Taylor Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mehdi-hattou/">
-  <img align="left" alt="Mehdi Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+<a href="https://www.linkedin.com/in/bryan-houblon/">
+  <img align="left" alt="Bryan Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 
 
 ### **🧑‍💻 Languages I use**
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
