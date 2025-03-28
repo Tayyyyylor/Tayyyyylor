@@ -11,15 +11,12 @@
 
 ### **📱 Let's connect**
 
-<p align="left">
-  <a href="https://twitter.com/ton_pseudo" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="30" alt="X" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ton_profil" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://x.com/Mehdi_Hattou">
+  <img align="left" alt="Mehdi Twitter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mehdi-hattou/">
+  <img align="left" alt="Mehdi Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+</a>
 
 ### **🧑‍💻 Languages I use**
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
