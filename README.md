@@ -5,7 +5,7 @@
 ### **🧠 About me**
 
 - 💼 I'm currently working for **Razorfish**
-- 🌱 I’m currently learning **Next.js**, **NestJS**, **React Native**
+- 🌱 I’m currently learning **NestJS** and **React Native**
 
 ---
 
