@@ -5,7 +5,7 @@
 ### **🧠 About me**
 
 - 💼 I'm currently building the letterboxd app for books named **myShelf**
-- 🌱 I’m currently learning **NestJS** and **React Native**
+- 🌱 I’m currently learning **Rust**
 
 ---
 
